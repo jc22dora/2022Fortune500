@@ -1,8 +1,7 @@
 # 2022Fortune500
-```1 :  Walmart 
-
+```
+1 :  Walmart 
 2 :  Amazon
-
 3 :  Apple
 4 :  CVS Health
 5 :  UnitedHealth Group
